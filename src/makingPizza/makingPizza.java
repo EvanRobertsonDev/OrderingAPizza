@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Evan Robertson
+ * October 9th 2018
+ * makingPizza.java
+ * Calculates cost of a a pizza based on its diameter while also outputing custom text depending on how big it is
  */
 
 package makingPizza;
